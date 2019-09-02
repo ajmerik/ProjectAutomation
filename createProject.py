@@ -1,11 +1,14 @@
+# Type into terminal:
+#       create [enter folder name]
+
 import sys
 import os
 from github import Github
 
-path = "/Users/krishnaajmeri/Desktop/Repository/"
+path = "[enter the path you want to create directory]"
 
-username = "ajmerik"
-password = "Bakasur1!"
+username = "[enter your username here]"
+password = "[enter your password here]"
 
 def create():
     folderName = str(sys.argv[1])
