@@ -1,7 +1,7 @@
 ### Install: 
 ```bash
-git clone "https://github.com/KalleHallden/ProjectInitializationAutomation.git"
-cd ProjectInitializationAutomation
+git clone "git@github.com:kajmeri/ProjectAutomation.git"
+cd ProjectAutomation
 pip install -r requirements.txt
 source ~/.my_commands.sh
 Then go to create.py and set the username and password to be your username and password.
